@@ -166,7 +166,7 @@ const themes = {
     title_color: "7fff00",
     icon_color: "00AEFF",
     text_color: "fff",
-    bg_color: "rgba(0,0,0,0)",
+    bg_color: "0c1017",
   },
   nord: {
     title_color: "81a1c1",
